@@ -125,3 +125,56 @@ header p {
     text-align: center;
 }
 
+/***TRAINERS****/
+
+
+
+.trainers-ctn .trainer1 {
+    background-image: url("../img/trainer1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+    
+}
+
+.trainers-ctn .trainer2 {
+    background-image: url("../img/trainer2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+}
+
+.trainers-ctn .trainer3 {
+    background-image: url("../img/trainer3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+}
+
+.trainers-ctn .trainer4 {
+    background-image: url("../img/trainer4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+}
+
+.trainers-ctn .trainer5 {
+    background-image: url("../img/trainer5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+}
+
+.trainers-ctn .trainer6 {
+    background-image: url("../img/trainer6.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+}
+
+/****ADVERT****/
+.advert2 {
+    background-image: url("../img/advertise3.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
